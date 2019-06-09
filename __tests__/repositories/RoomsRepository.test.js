@@ -1,6 +1,6 @@
 const moxios = require('moxios')
 const api = require('../../api')
-const RoomsRepository = require('../../repositories/RoomsRepository');
+const RoomsRepository = require('../../repositories/RoomsRepository')
 
 describe('Rooms Repository', () => {
 

@@ -20,4 +20,4 @@ module.exports = `
         fixedPrice: Int
         minimumPrice: Int
       }
-`;
+`

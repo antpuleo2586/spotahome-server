@@ -17,7 +17,6 @@ class RoomsRepository {
         } catch (error) {
             console.log(error)
         }
-
     }
 }
 
