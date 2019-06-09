@@ -9,11 +9,9 @@ To install, download the source code, or git clone the repository, and run `npm 
 
 ## Run 
 
-To run the app, run `npm start`. 
+To run the app, run `npm start`
 
-NOTE: you will want to amend the port that Apollo server is listening on i.e. 80 -> 4000
-
-You can then view and interact with the GraphQL server via the playground.np
+You can then view and interact with the GraphQL server via the playground.
 
 Sample Rooms query:
 
