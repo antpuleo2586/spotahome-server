@@ -1,0 +1,23 @@
+{
+  "name": "spotahome-server",
+  "version": "1.0.0",
+  "description": "The Spotahome Rooms GraphQL server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Antonio Puleo",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.6.2",
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "graphql": "^14.3.1",
+    "query-string": "^6.7.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "moxios": "^0.4.0"
+  }
+}
